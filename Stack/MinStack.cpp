@@ -71,7 +71,7 @@ int main(){
     s.Pop();
     s.Push(6);
     cout << "\ntop: " << s.Top() << "\nmin: " << s.getMin() << endl;
-    
+    ·
     s.Push(13);
     cout << "\ntop: " << s.Top() << "\nmin: " << s.getMin() << endl;
 
